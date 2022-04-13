@@ -1,1 +1,1 @@
-Some Crptography Functions In NodeJS
+Some Crptography Functions In JavaScript
